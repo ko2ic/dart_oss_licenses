@@ -17,7 +17,7 @@ $ brew install dart
 inatall dart-oss-licenses.
 
 ```
-$ pub global activate dart-oss-licenses
+$ pub global activate dart_oss_licenses
 ```
 
 run in your project root (exists pubspec.lock).

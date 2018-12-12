@@ -1,6 +1,6 @@
 name: dart_oss_licenses
 description: CLI tool that generate OSS license list of dart used in your project.
-version: 0.5.0
+version: 0.5.1
 homepage: https://github.com/ko2ic/dart_oss_licenses
 authors:
   - "koji ishii <ko2ic.dev@gmail.com>"
