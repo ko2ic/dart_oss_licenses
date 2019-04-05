@@ -133,7 +133,7 @@ android/app/build.gradle
 
 ```
 dependencies {
-    implementation "com.mikepenz:aboutlibraries:6.1.1"
+    implementation "com.mikepenz:aboutlibraries:6.2.3"
 ```
 
 Replace <package name> with the command outputted ```Succeeded Package List```.
